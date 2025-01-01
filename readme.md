@@ -34,7 +34,7 @@ Projekt je redno vzdrževan, nazadnje je bil posodobljen pret petimi dnevi.
 
 # Primer uporabe
 
-[![Watch the video](readme/thumb.png)](https://github.com/MrDog210/feri-pora-firestore-example-app/raw/refs/heads/main/readme/eaxmple.mp4)
+https://github.com/user-attachments/assets/7042f88a-06c0-4b00-8dd7-4e961e597737
 
 ```kt
 data class TaskItem (
