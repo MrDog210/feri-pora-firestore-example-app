@@ -42,7 +42,6 @@ class MainActivity : AppCompatActivity() {
 
         db = FirebaseFirestore.getInstance()
 
-
         // Initialize UI Components
         val recyclerView = binding.recyclerView
         taskInput = binding.taskInput
