@@ -34,7 +34,7 @@ Projekt je redno vzdrževan, nazadnje je bil posodobljen pret petimi dnevi.
 
 # Primer uporabe
 
-![](readme/eaxmple.mp4)
+[![Watch the video](readme/thumb.png)](readme/example.mp4)
 
 ```kt
 data class TaskItem (
